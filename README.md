@@ -14,23 +14,13 @@ Swipeable Cards: Smooth Tinder-like UI to navigate through content.
 Scalable: Easily adaptable to different use cases — dating, photo gallery, products, and more.
 
 Clean Codebase: Follows modern Android architecture patterns, making it easy to maintain and scale.
-
-
-🏹 Project Structure
-.
-├── composeApp/
-│ ├─ commonMain/          // Shared UI, ViewModel, and business logic
-│ ├─ androidMain/         // Android-specific code
-│ └─ iosMain/             // iOS-specific code
-└── iosApp/
-    └─ entry for iOS application (Swift UI & Compose Multiplatform)
     
 🟣 Screenshot
 Here’s a preview of the Swipe App UI:
-![image](https://github.com/user-attachments/assets/240995ee-20e1-4f61-a3dc-47d956b023d7)
-
-![image](https://github.com/user-attachments/assets/30e1d63d-2537-45cb-b801-0b8d6b6a3891)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/240995ee-20e1-4f61-a3dc-47d956b023d7" alt="Screenshot of the Swipe App" width="250">
+    <img src="https://github.com/user-attachments/assets/30e1d63d-2537-45cb-b801-0b8d6b6a3891" alt="Screenshot of the Swipe App" width="250">
+</p>
 
 📝 How to Run
 1️⃣ Clone this repository:
